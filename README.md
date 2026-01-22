@@ -1,7 +1,7 @@
 # Final-Project---SSD
 How to install and run the app:
 
-git clone https://github.com/khaledfoda/Final-Project---SSD 
+git clone https://faresehab15.github.io/Secure-Software-Development-Final-Project
 
 cd vuln-node.js-express.js-app
 
